@@ -5,3 +5,4 @@ Link to the course can be found [here](https://nptel.ac.in/courses/115/104/11510
 
 ---
 ![Screenshot](Best.png)
+![Screenshot](parabloid.png)
